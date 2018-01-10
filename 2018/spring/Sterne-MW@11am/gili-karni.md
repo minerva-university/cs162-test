@@ -3,7 +3,7 @@
 *"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."*
 
 -------------------------------
-![alt text](https://www.lipsum.com/images/banners/white_970x90.gif"")
+![demo](https://www.lipsum.com/images/banners/white_970x90.gif "")
 
 
 
