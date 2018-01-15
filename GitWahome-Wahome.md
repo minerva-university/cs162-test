@@ -1,10 +1,10 @@
-Hey There, My name is <b>Brian Wahome</b>h> from Kenya, I am an aspiring developer, an artist and science enthusiast. Some of my favorite languages are as follows:
-<ul>
-	<li>Python</li>
-	<li>JavaScript</li>
-	<li>Java</li>
-	<li>C</li>
-	<li>C++</li>
-	<li>HTML</li>
+#Hey There, My name is Brian Wahome from Kenya, I am an aspiring developer, an artist and science enthusiast. Some of my favorite languages are as follows:
+# Brian WAhome
 
-</ul>
+## A science and technology enthusiast, Kenyan.
+#### Likes Curves, football.
+
+
+* C 
+* C++
+* Java
