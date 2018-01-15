@@ -1,4 +1,3 @@
-#A Biography For Class
 # Oren Dar
 
 ֿSummary
