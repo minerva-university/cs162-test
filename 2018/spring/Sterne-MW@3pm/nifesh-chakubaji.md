@@ -1,6 +1,6 @@
-# Bio
+# Biography
 
-## *Hello*
+## January 15, 2018
 
 **Attribute** | **Value**
 --------- | -------
