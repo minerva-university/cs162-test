@@ -5,7 +5,7 @@
 About Myself:
 
 1. An Enthusiastic Gamer:
-* Hearthstone Ex-Pro, Ranked Top 100 in China~~, Stopped playing after joining Minerva~~
+* Hearthstone Ex-Pro, Ranked Top 100 in China ~~, Stopped playing after joining Minerva~~
 * In possession of:
 - [x] 1000+ games
 - [ ] 100-999 games
