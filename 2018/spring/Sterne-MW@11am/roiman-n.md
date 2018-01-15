@@ -8,6 +8,13 @@ it's not as easy as:
   else:
   	print "reality is ok"
   '''
+||||||| merged common ancestors
+'''python
+if 1==0:
+	print "end of days"
+else:
+	print "reality is ok"
+'''
 
 I am a _lewis carroll_ fan, and __especially__ of his nonsense:
 
