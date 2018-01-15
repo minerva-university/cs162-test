@@ -1,8 +1,8 @@
-#markdown is scary
-##really, been coding for a while, never understood it
+# markdown is scary
+## really, been coding for a while, never understood it
 
 it's not as easy as:
-'''python
+''' python
 if 1==0:
 	print "end of days"
 else:
