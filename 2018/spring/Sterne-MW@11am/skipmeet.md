@@ -7,3 +7,5 @@
 ```
 Bar.
 ```
+
+Certified alcohol aficionado. Organizer. Explorer. Lifelong writer. Falls down a lot. Proud social mediaholic. Freelance student.
