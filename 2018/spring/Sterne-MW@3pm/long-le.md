@@ -9,8 +9,8 @@
 Just like _this_:
 1. First item
 2. Another item
- *Sub item
- *Another subitem
+  * Sub item
+  * Another subitem
 3. ~~Last item~~
 
 ## Sometimes, tables are cool too:
