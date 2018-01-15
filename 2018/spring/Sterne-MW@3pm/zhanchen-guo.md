@@ -8,7 +8,7 @@
 * coding
     * I am *lazy* so only code when necessary
 
-## Favorate Quote:
+## Favorite Quote:
 
 > Never memorize something that you can look up
     ― Albert Einstein
@@ -17,5 +17,5 @@
 
 ## Sugar:
 
-A [tool](https://stackedit.io/app) for checking your readme.file
+A [tool](https://stackedit.io/app) for checking your readme file
 
