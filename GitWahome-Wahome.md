@@ -5,4 +5,6 @@ Hey There, My name is <b>Brian Wahome</b>h> from Kenya, I am an aspiring develop
 	<li>Java</li>
 	<li>C</li>
 	<li>C++</li>
+	<li>HTML</li>
+
 </ul>
