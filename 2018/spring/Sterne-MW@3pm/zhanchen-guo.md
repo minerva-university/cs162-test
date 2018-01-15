@@ -1,7 +1,6 @@
 # Zhanchen Guo Bibliography
 
-A young boy that was born in a island of China.
-[here](https://github.com/markguo40) is my github profile
+[A young boy](https://github.com/markguo40) that was born in a island of China.
 
 ## Hobby:
 
