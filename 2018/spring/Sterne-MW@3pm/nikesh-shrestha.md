@@ -8,7 +8,7 @@
     * Laugh
 1. **What I do now?**
     * _Eat_
-    *_Sleep_
+    * _Sleep_
 
 
 But as our daily quote in the ALF by **_ALF God_**
