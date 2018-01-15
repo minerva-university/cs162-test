@@ -1,7 +1,7 @@
 #A Biography For Class
 ## Oren Dar
 
-** Summary **
+** Summary
 * Age: 7*10^17 nanoseconds.
 * Height: 175*10^9 nanometers.
 * Weight: 141lb
