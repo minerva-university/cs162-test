@@ -1,13 +1,13 @@
-#markdown is scary
-##really, been coding for a while, never understood it
+# markdown is scary
+## really, been coding for a while, never understood it
 
 it's not as easy as:
-'''python
-if 1==0:
-	print "end of days"
-else:
-	print "reality is ok"
-'''
+  '''python
+  if 1==0:
+  	print "end of days"
+  else:
+  	print "reality is ok"
+  '''
 
 I am a _lewis carroll_ fan, and __especially__ of his nonsense:
 
