@@ -2,9 +2,9 @@
 # Brian WAhome
 
 ## A science and technology enthusiast, Kenyan.
-#### Likes Curves, football.
+#### Likes, football, family
 
-
+##Languages I love
 * C 
 * C++
 * Java
