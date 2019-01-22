@@ -6,11 +6,11 @@
 * The Center cannot Hold
   * Mere Anarchy is loosed upon the world
 
-  > The blood-dimmed tide is loosed
+  > The blood-dimmed tide is
   > and everywhere
 
-  '<The ceremony of innocence is lost>'
-  '<The best lack all conviction>'
+  The ceremony of innocence is drowned>
+  The best lack all conviction
 
   ## While the
   # Worst
