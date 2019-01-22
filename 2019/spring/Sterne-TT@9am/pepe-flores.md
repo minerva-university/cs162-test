@@ -9,7 +9,7 @@
 2. _Details_:
 	+ Likes to read
 	+ Enjoys listening to music
-	+ Delights learning and trying different cuisines
+	+ Is passionate for learning and trying different cuisines
 
 
 
