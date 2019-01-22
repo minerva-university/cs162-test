@@ -1,0 +1,1 @@
+My name is Ivan Ezeigbo and I am a senior at Minerva Schools at KGI. I am taking a Software Development class!! :smile:
