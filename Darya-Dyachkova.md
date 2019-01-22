@@ -1,7 +1,7 @@
 Creating my **second** commit. 
 _Checking out the markdown options_. 
 
-Below is a lune of one of my favorite poems. 
+Below is a line from one of my favorite poems. 
 
 > Запрись и забаррикадируйся шкафом от 
 > * хроноса
@@ -9,3 +9,5 @@ Below is a lune of one of my favorite poems.
 > * эроса 
 > * расы 
 > * и вируса
+
+_*It is about not leaving the room*_ 
