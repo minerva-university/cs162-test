@@ -6,4 +6,4 @@
 	+ I know how to fix _bikes_ and _motorbikes_
 
 2. **My favourite motorbike** 🏍️ 🏍️ 🏍️ 🏍️:
-	- ![Honda CB175 ](https://en.wikipedia.org/wiki/File:CB175K42010HondaMotorcycleCB175.jpg)
+	- ![Honda CB175 ](https://en.wikipedia.org/wiki/Honda_CB175)
