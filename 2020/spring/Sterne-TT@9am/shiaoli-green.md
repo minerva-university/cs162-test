@@ -2,5 +2,5 @@
 
 Hi! :grin:
 
-* I live in :flag_je:
+* I live in Jersey (Channel Islands)
 * I like to **bake** :cookie: and learn _languages_ :globe_with_meridians:
