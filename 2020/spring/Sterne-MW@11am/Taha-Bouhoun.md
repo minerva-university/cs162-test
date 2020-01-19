@@ -9,5 +9,6 @@ print("Hello World!")
 ```
 
 O | X | O
+-- | -- | --
 X | O | O
 O | X | X
