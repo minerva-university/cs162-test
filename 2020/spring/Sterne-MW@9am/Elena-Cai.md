@@ -5,6 +5,7 @@ I major in CS and Business. \
 I am from Beijing, China. \
 I love design, photography, and dance.
 
+
 *Only one is correct for the following statements, good luck guessing which one is correct.*
 😀
 - I learned Spanish for 1 week in high school, but I dropped the course after 1 week because I had a crush on a German guy and switched to German instead.
