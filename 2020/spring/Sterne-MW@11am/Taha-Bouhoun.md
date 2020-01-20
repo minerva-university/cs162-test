@@ -1,4 +1,4 @@
-# Taha Bouhouh
+# Taha Bouhoun
 Things that I like are:
 - *Football*
 - Music
