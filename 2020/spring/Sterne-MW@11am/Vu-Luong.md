@@ -12,4 +12,4 @@ Here's the link to [his portfolio](https://www.vuluong.me), because Vu is a sham
 
 Here's a fancy photo of his face, for no reason at all.
 
-![Vu's face](/profile.jpg)
+![Vu's face](profile.jpg)
