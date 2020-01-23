@@ -1,15 +1,8 @@
-# WHAT'S UP IT'S ZANE
+# What's up
 
-## How you doin
+## The name's Zane
 
-**I'm doin so well**
+I've been bumping Mac's new album on repeat ever since it came out.
 
-I have a couple ideas every once in awhile so yeah I would consider myself an [entreprenuer](https://www.merriam-webster.com/dictionary/entrepreneur)...
-
-Hit me up if you're also busy grinding but don't be surprised if I don't respond because I'm usually busy grinding
-
-> Here's some cool LaTeX
-
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
+Check it out!
+https://www.youtube.com/playlist?list=OLAK5uy_kDil7bSw2xMW6yCGOXTbwz96McxRXGyPI
