@@ -1,8 +1,10 @@
-** Biography **
-Zineb was born in Morocco. 
-She is now studying at * Minerva Schools at KGI * and has traveled to: 
+# Biography 
+
+Zineb was born in **Morocco**
+She went to study at * Minerva Schools at KGI * [https://www.minerva.kgi.edu/]
+She has since traveled to:
 - San Francisco 
-_ Seoul 
+- Seoul 
 - Hyderabad 
 - Berlin 
 - Buenos Aires
