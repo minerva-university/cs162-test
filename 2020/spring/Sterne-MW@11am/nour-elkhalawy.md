@@ -9,6 +9,6 @@ Here are the basics:
 
 ### Here is a photo of me!
 
-![Image of Me](https://photos.app.goo.gl/qbeZXVMQtY1i3Utn8)
+![Image of Me](https://ibb.co/vwKBbxm)
 
 
