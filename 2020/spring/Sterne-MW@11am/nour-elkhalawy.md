@@ -7,8 +7,6 @@ Here are the basics:
 * I am 21 years old
 * I major in CS and Business
 
-### Here is a photo of me!
 
-![Image of Me](https://ibb.co/vwKBbxm)
 
 
