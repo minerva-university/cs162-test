@@ -2,7 +2,7 @@ Testing..._testing_.
 
 Here is an imaginary:
 * list item #1
-** sublist #1
+  * sublist #1
 * list item #2
 * ...
 
