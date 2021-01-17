@@ -1,6 +1,6 @@
 Testing..._testing_.
 
-Here is an imaginary:
+Here is an imaginary list:
 * list item #1
   * sublist #1
 * list item #2
