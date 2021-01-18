@@ -1,7 +1,7 @@
 ## My name is
 # BATSAL GHIMIRE
 #### and I am a human
-##being.
+## being.
 
 As I once said:
 > Do whatever you want
@@ -17,5 +17,6 @@ Some *facts/features* about me:
 * I travel
 * I do things
 
-Hello from Mr. Musk to all:
+## Hello from Mr. Musk to all:
+
 ![e-lawn](https://i.kym-cdn.com/photos/images/original/001/424/907/b8e.jpg)
