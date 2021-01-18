@@ -1,6 +1,6 @@
 # Hello! My name is Pedro Judice
 
-I was born in ** Rio de Janeiro **, Brazil
+I was born in **Rio de Janeiro**, Brazil
 
 Here is a list of facts about me:
 
