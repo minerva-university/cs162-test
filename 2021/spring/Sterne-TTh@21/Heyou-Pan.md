@@ -5,6 +5,6 @@ Majors: *business, cs*
 
 Hogwarts college: *Hufflepuff*
 #### goals
-- [] be less social phobia
+- be less social phobia
    
-- [] get higher rank in games ;)
+- get higher ranked in games ;)
