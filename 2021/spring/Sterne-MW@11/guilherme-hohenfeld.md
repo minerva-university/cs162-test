@@ -10,3 +10,5 @@ There are many things I like to do, such as:
 * Creating lists
 
 Now, I study at **Minerva Schools at KGI** Majoring in Computer Science and minoring in Psychology. I will write a capstone based on Conversation design and empathy based on this TEDx speech: https://www.youtube.com/watch?v=Y6eNSf4br5Y&t=399s
+
+...
