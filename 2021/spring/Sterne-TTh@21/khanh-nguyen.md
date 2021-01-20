@@ -10,7 +10,7 @@ Khanh once said:
 
 > One thing that constantly troubles me is what to eat for my next meal >O<
 
-[Food meme](meme.jpg)
+![Food meme](meme.jpg)
 
 ## To-do list of 2021
 - [x] Register for CS162
