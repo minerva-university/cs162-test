@@ -1,6 +1,6 @@
 ### Self-Introduction
-_Name:_ Anqi Zhou
-_Interests:_ 
+*_Name:_ Anqi Zhou
+*_Interests:_ 
   1. Piano
   2. Chemistry
   3. Table Tennis
