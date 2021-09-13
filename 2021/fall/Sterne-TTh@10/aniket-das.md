@@ -3,6 +3,9 @@ I'm a sophomore and CS major at Minerva Schools, a highly selective undergraduat
 
 ## CONNECT
 
+### Personal website
+https://aniketdas.com
+
 ### LinkedIn
 https://www.linkedin.com/in/anik8das
 
