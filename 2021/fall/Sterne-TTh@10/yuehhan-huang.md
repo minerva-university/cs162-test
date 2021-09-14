@@ -3,18 +3,10 @@
 
 ### What I have been reading recently 
 
-(Via [Curius.app](https://curius.app/yueh%20han-huang)
+- [Curius.app](https://curius.app/yueh%20han-huang)
 
-<iframe
-              src="https://curius.app/activity/yueh%20han-huang"
-              border="none"
-              height="210px"
-              background-color: "rgb(250,250,250)"
-              allowTransparency
->
-</iframe>
 
-### M22 Minerva Cities 
+### M22  Cities 
 - San Frnacisco 
 - Seoul 
 - Hyderabad 
@@ -24,14 +16,9 @@
 - Taipei （rip)
 
 
-### A Video 
+### Music 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H6tLIfPJm2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Some music
-
-<iframe src="https://open.spotify.com/embed/playlist/0F9ihuHVcbUds4QG9asqsQ" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
+[Study Music](https://open.spotify.com/playlist/0F9ihuHVcbUds4QG9asqsQ?si=6628c829718848a8)
 
 ### Some links 
 
@@ -83,10 +70,7 @@
     </ul>
 </details>
 
-### Finally, some Latex? 
-
-
-$$ f(x) = x^3+1 $$
+### Finally, some gif?
 
 
 ![kid](https://media.giphy.com/media/OoTKFwKiOAbYc/giphy.gif?cid=ecf05e47r09ebc4ftx33up5qdgyk1icbdc8gk9gzskxp8mx6&rid=giphy.gif)
