@@ -1,1 +1,9 @@
-My name is 𝒩𝒶𝓏𝒶𝓇 𝒴𝒶𝓇𝑒𝓂𝓀𝑜, I'm a senior at 𝕄𝕚𝕟𝕖𝕣𝕧𝕒 𝕌𝕟𝕚𝕧𝕖𝕣𝕤𝕚𝕥𝕪. I have 3 ｄｏｇｓ, 4 🄲🄰🅃🅂 and 2 𝔰𝔫𝔞𝔨𝔢𝔰. I am a 𝓷𝓲𝓬𝓮 𝓤𝓴𝓻𝓪𝓲𝓷𝓲𝓪𝓷 𝓫𝓸𝔂.
+> My name is Nazar
+
+def just_function(word):
+    print(word)
+    
+Some classes I am taking this year:
+    CS162
+    Data Science Tutorial
+    CP193
