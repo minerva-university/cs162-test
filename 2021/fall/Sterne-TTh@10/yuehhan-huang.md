@@ -70,7 +70,15 @@
     </ul>
 </details>
 
+
+### Let's try this stats thing 
+
+[![Yueh Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=bojne)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Finally, some gif?
 
 
 ![kid](https://media.giphy.com/media/OoTKFwKiOAbYc/giphy.gif?cid=ecf05e47r09ebc4ftx33up5qdgyk1icbdc8gk9gzskxp8mx6&rid=giphy.gif)
+
+
