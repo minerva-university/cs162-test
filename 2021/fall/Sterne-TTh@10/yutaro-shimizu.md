@@ -8,5 +8,5 @@ and I currently reside in Nagano, Japan to study the effect of global warming on
 
 Kalyeane thinks I should add a list. I want to make her happy so here it is:
 - Here's I like Trains
-- [I like trains](https://www.youtube.com/watch?v=hHkKJfcBXcw)
--[Here's another song on delayed trians](https://www.youtube.com/watch?v=wXjhszy2f9w)
+  - [I like trains](https://www.youtube.com/watch?v=hHkKJfcBXcw)
+  - [Here's another song on delayed trians](https://www.youtube.com/watch?v=wXjhszy2f9w)
