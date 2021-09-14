@@ -4,6 +4,6 @@ def just_function(word):
     print(word)
     
 Some classes I am taking this year:
-    CS162
-    Data Science Tutorial
-    CP193
+    1. CS162
+    2. Data Science Tutorial
+    3. CP193
