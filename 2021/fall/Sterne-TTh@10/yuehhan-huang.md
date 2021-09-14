@@ -26,10 +26,10 @@
     <summary>My Digital Presence - elsewhere</summary>
     <ul> 
         <li>
-            <a href="https://are.na/yueh-han-huang" target="_blank">are.na/yueh-han-huang</a> 
+            <a href="https://are.na/yueh-han-huang">are.na/yueh-han-huang</a> 
         </li>
         <li>
-            <a href="https://vsco.co/yuehan18" target="_blank">vsco.co/yuehan18</a> 
+            <a href="https://vsco.co/yuehan18">vsco.co/yuehan18</a> 
         </li>
     </ul>
 </details>
@@ -50,7 +50,7 @@
             Arena 
         </li>
         <li>
-            <a href="https://t.me/yhtools" target="_blank">Check more in this telegram channel</a>
+            <a href="https://t.me/yhtools">Check more in this telegram channel</a>
         </li>
     </ul>
 </details>
@@ -59,13 +59,13 @@
     <summary>Friends' websites</summary>
     <ul> 
         <li>
-            <a href="https://alanchan.netlify.com/" target="_blank">Alan Chan</a>
+            <a href="https://alanchan.netlify.com/">Alan Chan</a>
         </li>
         <li>
-            <a href="https://www.notion.so/albertoma/Alberto-Arenaza-800a78258ec54c4abca02b5e905f1593" target="_blank">Alberto</a>
+            <a href="https://www.notion.so/albertoma/Alberto-Arenaza-800a78258ec54c4abca02b5e905f1593">Alberto</a>
         </li>
         <li>
-            <a href="https://abigail.africa/" target="_blank">Beez</a>
+            <a href="https://abigail.africa/">Beez</a>
         </li>
     </ul>
 </details>
