@@ -29,4 +29,4 @@ pablito.get_biography()
 
 ```
 
-* I should have created a list of tuples where the index is equal to a year in my life. But let me make my life complicated. Peace. *
+So: _I should have created a list of tuples where the index is equal to a year in my life. But let me make my life complicated. Peace._
