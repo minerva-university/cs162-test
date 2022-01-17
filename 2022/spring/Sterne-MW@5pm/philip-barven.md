@@ -13,7 +13,7 @@ I will now *attempt* to create a list of **random** stuff:
 
 Running out of ideas, part 2 will contain a **random** picture of a ***random*** creature.
 
-![Random Creature](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FImaginaryMonsters%2Fcomments%2Fbnduog%2Frandom_creature_i_made_out_of_3_different_animals%2F&psig=AOvVaw3p70MHFFodNeM0vqtQUsr6&ust=1642506467084000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjnu9DbuPUCFQAAAAAdAAAAABAD)
+![Random Creature](https://i.redd.it/dur5av67ylx21.jpg)
 
 ### Non-random Stuff:
 I am a CS major hoping to concentrate in AI. 
