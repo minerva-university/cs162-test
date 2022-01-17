@@ -20,4 +20,5 @@ Hi! I grew up in the **Himalayas** with an ultimate mission of climbing _Mount E
 
 > Hey.
 >> Hey you.
->>> Wishing you a nice day, bye!
+>>> Yes, you, beautiful human. 
+>>>> Wishing you a nice day, bye!
