@@ -1,7 +1,7 @@
 # Somewhat fictional biography of someone trying to learn SWE for the first time 🥳
 Hi! I grew up in the **Himalayas** with an ultimate mission of climbing _Mount Everest_.
 
-For real though I am a third-year student at Minerva University, double majoring in Arts and Humanities, and Computational Sciences. Born in 2000 in Lviv, Ukraine, with some exchange student adventures in 2017-2018, gap year following that, and starting Minerva in 2019. Scheduledd to graduate in May 2023.
+For real though I am a third-year student at *Minerva University*, double majoring in *Arts and Humanities, and Computational Sciences*. Born in 2000 in Lviv, Ukraine, with some exchange student adventures in 2017-2018 (North West of Wisconsin), gap year following that, and starting *Minerva* in 2019. Scheduled to graduate in May 2023.
 
 > The thing I crossed out of my life is ~~having a basement kitchen~~.
 
