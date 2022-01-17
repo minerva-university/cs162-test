@@ -9,4 +9,7 @@ The thing I crossed out of my life is ~~having a basement kitchen~~.
 3. Rocky.
 
 (Quotes)
-(Image)
+[That's how I looked in summer 2021 climbing rocks in California. Yes, with a mirror.][avatar]
+[avatar]: https://github.com/minerva-university/cs162-test/blob/andriy-kashyrskyy/git_photo.jpeg "Me, photographed."
+
+[Check out one of the recent discoveries of mine on British music] (https://www.youtube.com/watch?v=FSjvlnneEto)
