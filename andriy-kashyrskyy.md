@@ -8,9 +8,8 @@ Hi! I grew up in the **Himalayas** with an ultimate mission of climbing _Mount E
 2. Nice.
 3. Rocky.
 
-(Quotes)
-![That's how I looked in summer 2021 climbing rocks in California. Yes, with a mirror.][avatar]
-
+That's how I looked in summer 2021 climbing rocks in California. Yes, with a mirror.
+![alt text][avatar]
 [avatar]: https://github.com/minerva-university/cs162-test/blob/andriy-kashyrskyy/git_photo.jpeg "Me, photographed."
 
 [Check out one of the recent discoveries of mine on British music] (https://www.youtube.com/watch?v=FSjvlnneEto)
