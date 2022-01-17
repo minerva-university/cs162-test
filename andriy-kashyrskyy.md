@@ -1,4 +1,4 @@
-# Fictional biography of someone trying to learn SWE for the first time
+# Fictional biography of someone trying to learn SWE for the first time 🥳
 Hi! I grew up in the **Himalayas** with an ultimate mission of climbing _Mount Everest_.
 
 > The thing I crossed out of my life is ~~having a basement kitchen~~.
