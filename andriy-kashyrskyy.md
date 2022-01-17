@@ -3,7 +3,7 @@ Hi! I grew up in the **Himalayas** with an ultimate mission of climbing _Mount E
 
 The thing I crossed out of my life is ~~having a basement kitchen~~.
 
-The life I have lived so far has been:
+### The life I have lived so far has been:
 1. Pretty dope.
 2. Nice.
 3. Rocky.
