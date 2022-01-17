@@ -8,7 +8,7 @@ Hi! I grew up in the **Himalayas** with an ultimate mission of climbing _Mount E
 2. Challenging.
 3. Heartwarming.
 
-That's how I looked in summer 2021 climbing rocks in California. Yes, with a mirror.
+### That's how I looked in summer 2021 climbing rocks in California. Yes, with a mirror.
 
 ![alt text][avatar]
 
