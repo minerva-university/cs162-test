@@ -14,6 +14,6 @@ That's how I looked in summer 2021 climbing rocks in California. Yes, with a mir
 
 [avatar]: https://github.com/minerva-university/cs162-test/blob/andriy-kashyrskyy/git_photo.jpeg "Me, photographed."
 
-[Check out one of the recent discoveries of mine on British music][ref]
+[Check out one of the recent discoveries of mine on British music (simply click on this text).][ref]
 
 [ref]: https://www.youtube.com/watch?v=FSjvlnneEto
