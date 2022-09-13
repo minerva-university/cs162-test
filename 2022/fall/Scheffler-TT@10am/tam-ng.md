@@ -11,3 +11,9 @@ I am 19
 ## Where I am now:
 
 Buenos Aires, Argentina
+
+## My hobbies:
+
+1. **Listening to music**
+2. **Dancing**
+3. *recently* **Bouldering**
