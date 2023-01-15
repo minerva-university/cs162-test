@@ -2,19 +2,19 @@
 
 ## using bold
 
-** This is how we can use bold in text **
+**This is how we can use bold in text**
 
 ## using italic
 
-* This is how we can use italic *
+*This is how we can use italic*
 
 ## maybe bold and italic?
 
-*** This is also possible ***
+***This is also possible***
 
 ## quoting someone
 
-> This is my quote
+>This is my quote
 
 ## quote word
 
