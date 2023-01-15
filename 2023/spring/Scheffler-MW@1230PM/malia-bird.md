@@ -8,4 +8,5 @@
 - the *snowflakes* on her eyelashes
 
 **And then she went to Minerva, with its warm cities**
+
 And she grew weak and now she will not stop *shivering in the canadian cold*
