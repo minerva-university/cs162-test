@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Richard Maina
+- 👀 I’m interested in ...software development and AI
+- 🌱 I’m currently learning web development.
+- 💞️ I’m looking to collaborate on creating web applications.
+- 📫 How to reach me richie@uni.minerva.edu
