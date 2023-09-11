@@ -1,4 +1,4 @@
-#Edona Saliu's biography 
+# Edona Saliu's biography 
 
 I am currently a junior at **Minerva University**, majoring in Computer Science. My goals are to enhance my skills and experiences in Software Development, Data Science and Algorithms, Machine Learning, and AI. 
 
