@@ -10,4 +10,3 @@ One of the pivotal experiences of this internship has been the exciting project 
 #Favorite advice
 
 > "It is never dumb to ask a lot of questions"
-
