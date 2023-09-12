@@ -2,7 +2,7 @@
 # Meet [Muhammad Saleh]
 
 * **Full Name:** [Muhammad Saleh]
-* **Title:** High Achiever Student at Minerva University
+* **Title:** Student at Minerva University
 * **Areas of Expertise:**
   - Leadership
   - Motivational Speaking
@@ -28,5 +28,5 @@ Currently, Saleh is pursuing a double major in Computer Science and Business at 
 
 What truly sets Saleh apart is their unwavering passion for creating technology-induced change. They approach their work with dedication, a thirst for knowledge, and an unyielding tenacity that inspires everyone around them.
 
-In a world that demands creative problem-solvers and visionary leaders, [Your Name] shines brightly as a beacon of inspiration and innovation. Keep an eye on their journey as they continue to make waves in the realms of tech and business.
+In a world that demands creative problem-solvers and visionary leaders, Saleh shines brightly as a beacon of inspiration and innovation. Keep an eye on their journey as they continue to make waves in the realms of tech and business.
 ```
