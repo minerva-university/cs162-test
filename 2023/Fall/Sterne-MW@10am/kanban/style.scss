@@ -1,0 +1,84 @@
+$border-radius: 3px;
+$padding: 1rem;
+
+.card-list {
+  background: #eee;
+  border-radius: $border-radius;
+  padding: $padding;
+  &-header {
+    font-weight: 700;
+    font-size: 1.25rem;
+    margin-bottom: 0.75rem;
+  }
+  &-body {
+    min-height: 2rem;
+  }
+  &-item {
+    position: relative;
+    background: #fff;
+    margin-bottom: 1rem;
+    padding: $padding;
+    border-radius: $border-radius;
+    position: relative;
+    &.important {
+      &::before {
+          content: "";
+          background: red;
+          top: 0;
+          left: 0;
+          height: 100%;
+          width: $border-radius;
+          position: absolute;
+        border-top-left-radius: $border-radius;
+        border-bottom-left-radius: $border-radius;
+        }
+    }
+    &-button {
+      position: absolute;
+      right: 0.75rem;
+      top: 0.75rem;
+    }
+    &-title {
+      margin-right: 20px;
+      position: relative;
+    }
+  }
+  &-footer {
+  }
+}
+
+// Draggable styles
+
+.draggable--is-dragging {
+  cursor: grabbing !important;
+  .card-kanban *,
+  .card-list {
+    cursor: grabbing;
+  }
+}
+
+.card-list-item {
+  user-select: none;
+  outline: none !important;
+  cursor: grab;
+}
+
+.card-list-item.draggable-mirror {
+  min-width: 268px;
+  margin-bottom: 0;
+}
+
+.draggable-mirror {
+  z-index: 2;
+}
+
+.draggable-source--is-dragging {
+  opacity: 0.25;
+  &:nth-last-child(2) {
+    margin-bottom: 0;
+  }
+}
+
+.draggable--original {
+  margin: 0 !important;
+}

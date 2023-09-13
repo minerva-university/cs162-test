@@ -1,0 +1,67 @@
+body {
+  background-color: black;
+}
+.page-title{
+  color: white;
+  margin-top: 50px;
+  margin-bottom: 50px
+}
+.card-list {
+  background: #222222;
+  border-radius: 10px;
+  padding: 1rem;
+}
+.card-list-header {
+  color: white;
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin-bottom: 0.75rem;
+}
+.card-list-body {
+  min-height: 2rem;
+}
+.card-list-item {
+  position: relative;
+  background: #dadada;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  position: relative;
+  border-radius: 10px;
+}
+.card-list-item-title {
+  margin-right: 20px;
+  position: relative;
+}
+.draggable--is-dragging {
+  cursor: grabbing !important;
+}
+.draggable--is-dragging .card-kanban *,
+.draggable--is-dragging .card-list {
+  cursor: grabbing;
+}
+
+.card-list-item {
+  user-select: none;
+  outline: none !important;
+  cursor: grab;
+}
+
+.card-list-item.draggable-mirror {
+  min-width: 268px;
+  margin-bottom: 0;
+}
+
+.draggable-mirror {
+  z-index: 2;
+}
+
+.draggable-source--is-dragging {
+  opacity: 0.25;
+}
+.draggable-source--is-dragging:nth-last-child(2) {
+  margin-bottom: 0;
+}
+
+.draggable--original {
+  margin: 0 !important;
+}

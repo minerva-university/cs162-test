@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Kanban - Davi Coscarelli</title>
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css'>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<div class="container my-4">
+  <h1 class="page-title">Davi's Kanban</h1>
+  <div class="row kanban-board">
+    <div class="col-3 kanban-col">
+      <div class="card-list">
+        <div class="card-list-header">Backlog</div>
+        <div class="card-list-body">
+          <div class="card-list-item important">
+            <div class="card-list-item-title">
+              <a href="#"><h6>Health check</h6></a>
+            </div>
+            <p class="mt-4 mb-0"> 0/10</p>
+          </div>
+          <div class="card-list-item">
+            <a href="#"><h6>Talk to family</h6></a>
+            <p class="mt-4 mb-0"> 0/10</p>
+          </div>
+          <div class="card-list-item">
+            <a href="#"><h6>Self-care</h6></a>
+            <p class="mt-4 mb-0"> 0/100</p>
+          </div>
+        </div>
+        <div class="card-list-footer">
+          <a href="#" class="btn btn-link">Add task</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-3 kanban-col">
+      <div class="card-list">
+        <div class="card-list-header">Doing</div>
+        <div class="card-list-body">
+          <div class="card-list-item">
+            <a href="#"><h6>CS162 Assignment</h6></a>
+            <p class="mt-4 mb-0"> 1/4</p>
+          </div>
+          <div class="card-list-item">
+            <a href="#"><h6>Crying</h6></a>
+            <p class="mt-4 mb-0"> 4/4</p>
+          </div>
+        </div>
+        <div class="card-list-footer">
+          <a href="#" class="btn btn-link">Add task</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-3 kanban-col">
+      <div class="card-list">
+        <div class="card-list-header">Review</div>
+        <div class="card-list-body">
+          <div class="card-list-item">
+            <a href="#"><h6>Life Decisions</h6></a>
+            <p class="mt-4 mb-0"> 1/100</p>
+          </div>
+        </div>
+        <div class="card-list-footer">
+          <a href="#" class="btn btn-link">Add task</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-3 kanban-col">
+      <div class="card-list">
+        <div class="card-list-header">Done</div>
+        <div class="card-list-body">
+          <div class="card-list-item">
+            <a href="#"><h6>Minerva</h6></a>
+            <p class="mt-4 mb-0"> 4/4</p>
+          </div>
+        </div>
+        <div class="card-list-footer">
+          <a href="#" class="btn btn-link">Add task</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+<script src='https://cdn.jsdelivr.net/npm/@shopify/draggable@1.0.0-beta.8/lib/draggable.bundle.legacy.min.js'></script>
+<script src='https://cdn.jsdelivr.net/npm/@shopify/draggable@1.0.0-beta.8/lib/plugins/swap-animation.min.js'></script>
+<script  src="./script.js"></script>
+
+</body>
+</html>
