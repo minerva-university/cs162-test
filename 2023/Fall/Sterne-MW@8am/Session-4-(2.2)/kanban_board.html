@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Kanban Board</title>
+  <style>
+    /* General Styles */
+    body {
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+    header, main, footer {
+      padding: 20px;
+    }
+    header {
+      background-color: #7943b7;
+      color: white;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    main {
+      display: flex;
+      justify-content: space-around;
+    }
+    footer {
+      background-color: #7943b7;
+      color: white;
+      text-align: center;
+    }
+
+    /* Column Styles */
+    .column {
+      width: 18%;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      padding: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+    #backlog { background-color: #f2dede; }
+    #todo { background-color: #fcf8e3; }
+    #in-progress { background-color: #d9edf7; }
+    #review { background-color: #f5f5f5; }
+    #done { background-color: #dff0d8; }
+
+    .column h2 {
+      text-align: center;
+      margin-top: 0;
+    }
+
+    /* Task Styles */
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    .task {
+      background-color: #ffffff;
+      margin: 8px 0;
+      padding: 10px;
+      text-align: center;
+      border-radius: 4px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      min-height: 70px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Site Title -->
+  <header>
+    <h1>Kanban Board Project Design</h1>
+    <div>
+      <a href="#" style="color: white; margin-right: 20px;">Logout</a>
+    </div>
+  </header>
+
+  <!-- Kanban Board -->
+  <main>
+    <section class="column" id="backlog">
+      <h2>Backlog</h2>
+      <ul>
+        <li class="task">Write assignment</li>
+      </ul>
+    </section>
+
+    <section class="column" id="todo">
+      <h2>To Do</h2>
+      <ul>
+        <li class="task">Finish collecting survey answers</li>
+        <li class="task">Analyze survey asnwers</li>
+      </ul>
+    </section>
+
+    <section class="column" id="in-progress">
+      <h2>In Progress</h2>
+      <ul>
+        <li class="task">Collect survey</li>
+      </ul>
+    </section>
+
+    <section class="column" id="review">
+      <h2>Review</h2>
+      <ul>
+        <li class="task">Review qualitative research answers</li>
+      </ul>
+    </section>
+
+    <section class="column" id="done">
+      <h2>Done</h2>
+      <ul>
+        <li class="task">Create wireframes</li>
+        <li class="task">Create survey</li>
+        <li class="task">Conduct qualitative research</li>
+      </ul>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <p>Created by Nicole Dantas</p>
+    <img src="https://media4.giphy.com/media/VbnUQpnihPSIgIXuZv/200w.gif?cid=6c09b952mb7r4sqm70gc6fkq3anxgjb5zmk50yarnkfqozkc&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Cute GIF" width="100">
+  </footer>
+
+</body>
+</html>
