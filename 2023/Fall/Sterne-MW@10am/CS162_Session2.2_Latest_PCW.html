@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  body {
+    background-color: white;
+    font-family: Arial, sans-serif;
+  }
+  header, main, footer {
+    background-color: #2b2b2b;
+    color: #f0f0f0;
+    padding: 20px;
+  }
+  header, footer {
+    background-color: #1a1a1a;
+  }
+  main {
+    display: flex;
+    justify-content: space-around;
+  }
+  .column {
+    width: 18%;
+  }
+  .column h2 {
+    border-bottom: 2px solid #444;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+  }
+  .task {
+    background-color: #444;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+    position: relative;
+    cursor: pointer;
+  }
+  .task button {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    background: red;
+    border: none;
+    color: white;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+  }
+  footer {
+    display: flex;
+    justify-content: space-between;
+  }
+  .new-task-btn {
+    margin: 10px 0;
+    padding: 5px 10px;
+    background-color: #444;
+    color: #f0f0f0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+</style>
+<title>Saleh's Kanban Board</title>
+</head>
+<body>
+
+<header>
+  <h1>Saleh's Kanban Board</h1>
+</header>
+
+<main id="main">
+  <div class="column" data-column="backlog">
+    <h2>Backlog</h2>
+    <div class="task" contenteditable="true">Example Task 1<button onclick="deleteTask(this)">X</button></div>
+    <!-- ... Repeat for more tasks -->
+    <button class="new-task-btn" onclick="addTask(this)">Add New Task</button>
+  </div>
+  
+  <div class="column" data-column="To do">
+    <h2>To do</h2>
+    <div class="task" contenteditable="true">Example Task 1<button onclick="deleteTask(this)">X</button></div>
+    <!-- ... Repeat for more tasks -->
+    <button class="new-task-btn" onclick="addTask(this)">Add New Task</button>
+  </div>
+
+  <div class="column" data-column="In Progress">
+    <h2>In Progress</h2>
+    <div class="task" contenteditable="true">Example Task 1<button onclick="deleteTask(this)">X</button></div>
+    <!-- ... Repeat for more tasks -->
+    <button class="new-task-btn" onclick="addTask(this)">Add New Task</button>
+  </div>
+
+  <div class="column" data-column="Review">
+    <h2>Review</h2>
+    <div class="task" contenteditable="true">Example Task 1<button onclick="deleteTask(this)">X</button></div>
+    <!-- ... Repeat for more tasks -->
+    <button class="new-task-btn" onclick="addTask(this)">Add New Task</button>
+  </div>
+
+  <div class="column" data-column="Completed">
+    <h2>Completed</h2>
+    <div class="task" contenteditable="true">Example Task 1<button onclick="deleteTask(this)">X</button></div>
+    <!-- ... Repeat for more tasks -->
+    <button class="new-task-btn" onclick="addTask(this)">Add New Task</button>
+  </div>
+
+
+  <!-- Repeat similar block for 'To Do', 'In Progress', 'Review' and 'Completed' columns with respective tasks -->
+
+</main>
+
+<footer>
+  <div>Last edited: <span id="last-edited"></span></div>
+  <button type="button" onclick="logout()">Logout</button>
+</footer>
+
+<script>
+  function logout() {
+    alert('Logged out successfully.');
+  }
+
+  function addTask(button) {
+    const task = document.createElement('div');
+    task.className = 'task';
+    task.contentEditable = true;
+    task.innerHTML = 'New Task<button onclick="deleteTask(this)">X</button>';
+    button.parentElement.insertBefore(task, button);
+    updateTaskNumbers();
+  }
+
+  function deleteTask(button) {
+    button.parentElement.remove();
+    updateTaskNumbers();
+  }
+
+  function updateTaskNumbers() {
+    const columns = document.querySelectorAll('.column');
+    columns.forEach(column => {
+      const tasks = column.querySelectorAll('.task');
+      tasks.forEach((task, index) => {
+        task.firstChild.nodeValue = `Task ${index + 1}`;
+      });
+    });
+
+    document.getElementById('last-edited').textContent = new Date().toLocaleString();
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    updateTaskNumbers();
+    document.getElementById('main').addEventListener('focusout', updateTaskNumbers);
+  });
+</script>
+</body>
+</html>
