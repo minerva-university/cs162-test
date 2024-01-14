@@ -1,0 +1,6 @@
+# CS162 Session 3 PCW
+
+My name is Yubin Park, and I am currently:
+- __In London!__
+- Studying computer science!
+- happy to be here
