@@ -1,7 +1,10 @@
-### **Hi there!** ###
+### **Hello!** ###
 
-_I am Matvii, an avid runner and Formula 1 fan._
+_My name is Mykhailo, but most of my friends call me Misha._
 
-**I most enjoy working on the frontend, following my passion of graphic design.**
+### I love 
+- nature
+- table tennis
+- Indian food
 
-+ _I am currently reading Outlive by Dr Peter Attia, a fascinating book on healthspan and longevity._
+**I enjoy learning about SWE to be able to make a product that millions of people will use.**
