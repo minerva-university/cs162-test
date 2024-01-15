@@ -7,4 +7,5 @@ I am taking
 - AH111
 - NS110U
 
-I am currently in *SF* and the schedule is messed up! wa
+I am currently in *SF* and the schedule is messed up! 
+
