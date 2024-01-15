@@ -1,6 +1,6 @@
 # About Me
 
-I go by Chiffon at Minerva, but my legal is My (pronounced "me"). I know human identities are socially constructed, but I really like label myself, as:
+I go by Chiffon at Minerva, but my legal is My (pronounced *me*). I know human identities are socially constructed, but I really like label myself, as:
 - a lifelong learner
 - an avid reader
 - a minimalist
