@@ -8,6 +8,7 @@
 - Surfing
 - Computer Science (CS)
 - Business
+- testing
 
 **Recent Adventure:** Traveling in a camper van across Portugal, from South to North.
 
