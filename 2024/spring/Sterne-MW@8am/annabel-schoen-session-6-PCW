@@ -1,0 +1,96 @@
+1. In your own words, what is Flask and why it is considered as a microframework?
+    
+    Flask is a web application framework that works with Python.
+    
+    Microframework because it provides only the bare essentials to get a simple web applciation running. Thus, it is minimalist in that sense, as it doesn’t use many tools and libraries 
+    
+2. What are the roles of the following parts in a Flask app:
+    - templates
+        - They rrender the UI and are typically HTML files that allow for dynamic content. Flask uses Jinja2 templating engine (embed Python-like expressions directly within the HTML to display data). Templates help in separating the presentation layer from the business logic of the application.
+    - static files
+        - Files like CSS, JavaScript, and images that don't change dynamically. In a Flask application, static files are stored in a directory named static by default
+    - requirements.txt
+        - This file lists all the Python dependencies needed for the Flask application to run. When setting up the project in a VE one can use this file with pip to install all the required packages at once - this makes the workflow easier
+    - virtual environment `venv`
+        - The VE sets up and stores all libraries and packages required for the web application. This ensures that everything is ‘in one place’ and easy to use when shared with other developers and avoids conflict of packages.
+        - Best practise
+    - render_template
+        - A function provided by Flask to render a template. the pass the name of the template file is passed to this function, along with any data you want to pass to the template. render-template processes the file and returns the final HTML to be displayed in the user's browser.
+    - redirect
+        - This function is used to redirect the user to a different point within the application (e.g. after a form submission, one is redirected to a success page or back to the form page)
+    - url_for
+        - Generates a URL to a specific function. Allows to refer to functions by their names and Flask constructs the URL. This is  helpful for maintaining the application, as changes in URL structure don't require changes in multiple places
+    - session
+        - A way to store information specific to a user from one request to the next. Sessions are commonly used for things like keeping a user logged in as they go through a site
+3. When we run a Flask app, you may need to use the following commands. Explain the goal of each command.
+    1. This installs the required libraries and packages in the VE for the Flask project. The requirements.txt file contains a list of Python packages that the application depends on
+    2. This sets an environment variables to specify the entry point of the flask application (this is because Flask needs to know where to find the application in order to runit). basically, by saying FLASK_APP=app.py I am telling Flask that the entry point to my application is the module app / the python file.
+    3. Used to start the Flask web server and run the application. -m tells Pytthon to run the flask module as a scriptt. the command reads the FLASK_APP environment variable to find and load the application (to a default local web server, **http://127.0.0.1:5000 by default)**
+    
+    ```
+    $ pip3 install -r requirements.txt
+    ```
+    
+    ```
+    $ export FLASK_APP=app
+    ```
+    
+    ```
+    $ python3 -m flask run
+    ```
+    
+4. There are many ways to run a Flask model, the two common ways are
+    
+    ```
+    export FLASK_APP=app.py
+    python3 -m flask run
+    ```
+    
+    or
+    
+    ```
+    python3 app.py
+    ```
+    
+    Explain the differences between two commands, and when would you use each of them.
+    
+    1. First method first sets an environment variable FLASK_APP to my application’s entry point and then use Flask's command-line interface to run the application
+        1. makes it easier to manage different configurations or instances of the app
+        2. preferred for development environments, especially when working with larger or more complex Flask applications - greater flexibility and access to development features
+    2. this method runs directly with Python → it’s simple, and useful for a quick set-up or testing or in environments where setting environment variables isn’t ideal
+5. Why should we define specific version of libraries in `requirements.txt`? How can you find the version you should use?
+    1. To ensure consistency, especially in a larger team of developers
+    2. Avoids the "it works on my computer" problem 
+    3. Libraries can change and those changes might nott work with the application anymore, thus ensuring one uses the correct version is crucial
+    4. If the application is already working correctly in the development environment, you can generate a requirements with the exact versions one is currently using
+6. What is the role of `@app.route` in the code below? Why do we put it right before defining the function. What is the default value for `methods` (in the documentation)?
+    
+    @app.route is a decorator in Python (meaning it applies a function to change an existing function’s functionality, without actually changing it). It defines how a certain functon is mapped to a web URL. It is used to associate a specific URL path with a Python function - when a Flask application receives a request from a client  it needs to know which function to execute based on the URL of the request.
+    
+    - Defaults to ‘get’ - GET requests are the most common type of HTTP request and are used for retrieving data from a server
+    
+    ```
+    @app.route('/', methods=['GET'])
+    def main():
+    	return 'Hello'
+    ```
+    
+7. What is a decorator? Why should we use decorators in our Flask app?
+    1. it applies a function to change an existing function’s functionality, without actually changing it - function wrapping
+    2. Decorators provide a clean and reusable way to extend the functionality of functions or methods (i.e. one doesn’t have to repeat oneself)
+    3. In Flask, it is mostly used for route handling (e.g. to bind a function to a URL) or to specify a custom error ( @app.errorhandler), blueprints (@blueprint.route) for larrger applications, for logins (@login_required) 
+        1. Thus, they are clean and reusable, separating routting from business (actual processing and handling of data) logic 
+        2. Separation of concerns 
+        3. Code reusability
+8. What is the `config` attribute in a Flask app? How can you define `TESTING=True` or `SECRET_KEY='abc'`?
+    1. a dictionary-like object that stores configuration variables, which infuence the behavior of the application in various ways (i.e. how it connects to DB, how session data is stored)
+    2. allows for a centralized and convenient way to manage configuration settings that may vary between environments
+    3. One can change through direct assignment, a configuration file (config.py; app.config.from_object('config')), environment variables (i.e. for secret_key which shouldn’t be hardcoded)
+    4. TESTING =true will enable the tesing mode for task (which might change the behavior of how exceptions are handled)
+9. Lots of modern servers normally return data in the JSON format. What is JSON and why should we use it?
+    1. commonly used for data interchange on the web
+    2. lightweight, text-based data format
+10. What is the default host and port in Flask? How can you change the host and port?
+    1. Default host is local:  **http://127.0.0.1:5000**
+    2. To change it, one can pass the host and port parameters to the app.run() method (e.g. host = 0.0.0.0 makes the server externally visible)
+    3. changing to port value to e.g. 8080 means the application will be accessbile at http://127.0.0.1:8080
