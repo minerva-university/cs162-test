@@ -19,3 +19,8 @@ I am Alaa, an Egyptian CS major. I *wake up, code, study, sleep, and repeat*.
 | Football          | Fantastic |
 | Study             | Nerd      |
 | Life              | Loser     |
+
+
+## How to run the Alaa?
+
+Development: `Alaa run dev`
