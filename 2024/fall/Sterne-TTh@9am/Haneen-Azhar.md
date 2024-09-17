@@ -1,27 +1,48 @@
-# Haneen Azhar: A Whimsical Journey through Finance and Tech 🚀
+# Haneen Azhar: A Journey through Tech, Finance, and Existential Risk 🌍🚀
 
-**Hello there!** 👋 My name is *Haneen Azhar*, and I'm currently navigating the fascinating world of **CS and Business** at Minerva University. 
+**Greetings!** 👋 My name is *Haneen Azhar*, and I'm on an exciting path that intertwines **Computer Science**, **Business**, and an interest in **existential risks**. Currently, I’m a student at **Minerva University**, exploring the convergence of **finance** and **technology** with a passion for innovation.
 
-## 🎓 What do I do?
-- I'm passionate about **finance** and **technology**.
-- Currently exploring the **intersection of quantum computing** and **sustainable finance**.
-- Serving as a TA for the amazing **Prof. Digby** this semester. (Yes, I grade papers 📝)
-- Working on an exciting project called **StarcAI**!
+## 🎓 Academic Life
+At Minerva University, I’m fortunate to experience an education that spans across multiple cities, giving me a truly global perspective. My studies focus on:
+- **Computer Science**: Delving into programming, algorithms, and all things tech!
+- **Business**: Understanding strategic formulation, risk management, and the economics of decision-making.
+- My key interests lie at the intersection of **quantum computing** and **sustainable finance**—two cutting-edge fields that hold transformative potential for our future.
 
-## 🚀 Fun facts about me:
-- I’ve lived in **18 different cities** over the past **21 years**. So, yes, I’m pretty good at packing suitcases. 🧳
-- A huge fan of **badminton** and **table tennis** – if you want a challenge, I'm your person. 🏸🏓
-- Oh, did I mention? I once taught **Python** to some brilliant students during an internship. Python and I are good friends. 🐍
+## 🛠️ Professional Experience
 
-### Hobbies:
-- In my free time, you might catch me:
-  - Perfecting my badminton backhand. 💥
-  - Losing track of time while **coding**.
-  - Dreaming up ways to revolutionize finance with quantum computing. 🌐
+### Internship with the **Swiss Existential Risk Initiative**
+I had the unique opportunity to intern with the **Swiss Existential Risk Initiative**, where I collaborated on projects aimed at mitigating global catastrophic risks. My time there allowed me to:
+- **Research AI safety** and the implications of advanced technologies on society.
+- Work on risk management frameworks designed to address potential existential threats.
+- Contribute to a think tank that works to ensure the long-term survival and well-being of humanity. 🌍
   
-## Quotes I live by:
-> “Innovation is the ability to see change as an opportunity, not a threat.”
+This experience was eye-opening and aligned perfectly with my passion for leveraging **technology and finance** to safeguard the future.
 
-> “Finance and tech? Why choose one when you can merge both and create magic?”
+### Other Notable Roles
+- Currently, I'm a **Teaching Assistant (TA)** for the amazing **Prof. Digby** this semester, where I help students navigate complex economics concepts. 📚✍️
+- Working on an exciting project called **StarcAI**, combining artificial intelligence with sustainable finance principles. Stay tuned for more updates! 🤖🌱
+- During a summer at **iD Tech**, I taught **Python** and **machine learning** to young, eager minds, and helped them embark on their coding journeys. 🐍💻
 
-Feel free to reach out if you're also passionate about the future of finance and tech. Together, we can turn possibilities into reality! 🌟
+## 🚀 Fun Facts about Me:
+- **18 cities in 21 years**: I’ve lived in so many places that packing and moving is second nature. Each city has taught me something new—whether it's the cuisine, the language, or the tech ecosystem!
+- I’m an enthusiastic player of **badminton** and **table tennis**. If you're up for a challenge, let’s hit the court. 🏸🏓
+- I have a knack for **coding**—whether it’s in Python, Java, or C++, I'm always up for solving complex problems and writing efficient code.
+
+### Hobbies
+In my free time, you can often find me:
+- Perfecting my badminton backhand. 💥
+- Daydreaming about **quantum computing** and its potential to reshape financial models.
+- Engaging in deep conversations about **existential risks**—yes, I love pondering the future of humanity! 🌌
+
+## 📚 What I'm Currently Reading
+- **"Superintelligence"** by Nick Bostrom, because the future of AI fascinates me.
+- **"The Innovator's Dilemma"** by Clayton Christensen, for insights into how technology disrupts industries.
+  
+## ✨ A Few Personal Mantras
+> “Innovation is seeing opportunity in change.”
+
+> “The future of finance is sustainable and tech-driven.”
+
+> “Existential risks are humanity’s call to innovate and collaborate.”
+
+If you're passionate about **safeguarding the future**, **finance**, or **technology**, feel free to connect! Let's chat about how we can create a world that's both prosperous and sustainable. 🌟
