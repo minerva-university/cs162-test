@@ -1,4 +1,4 @@
-"# My Life Story
+# My Life Story
 
 ## Basics
 
@@ -11,7 +11,7 @@
 ***My first word was:***
 ```python
 def first_word():
-    print("Give!")
+    print("Give!")```
 
 ## Countries where I lived
 
@@ -20,5 +20,3 @@ def first_word():
 3. South Korea
 4. Germany
 5. Argentina
-
-" 
