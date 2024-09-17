@@ -8,10 +8,7 @@
 > Professional Interests: Computer Science, Math, Data Science
 > Personal Interests: Reading, Feminist, Self-Care
 
-***My first word was:***
-```python
-def first_word():
-    print("Give!")```
+My first word was: ~~Mom~~ ***Give***
 
 ## Countries where I lived
 
