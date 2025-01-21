@@ -23,4 +23,4 @@ With a vision to drive meaningful change, Tanatswa pursues impactful product man
 
 > "The best way to predict the future is to invent it." - Alan Kay
 
-And so, his journey continues, inspiring others to dream big and make an impact.
+And so, his journey continues, inspiring others to dream big and make an impact
