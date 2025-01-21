@@ -8,5 +8,5 @@ My name is Lina and I am from Egypt.
 ## *Things I like*
 - Cats (I have an adorable one called Luna)
 - Art in different ways and forms
-- The color urple.
+- The color Purple.
 - Egyptian Food
