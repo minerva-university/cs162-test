@@ -9,3 +9,4 @@ Hi, I'm **Daisuke Fujiwara**, a lazy thinker exploring the intersection of start
 
 ### My Motto:  
 > "The moment you give up is the moment you let someone else win." – Kobe Bryant  
+
