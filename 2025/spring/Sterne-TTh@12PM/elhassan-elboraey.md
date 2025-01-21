@@ -1,6 +1,6 @@
 # Hello! I'm Alhassan Ahmed 👋
 
-Born and raised in **Egypt**, I’ve had the privilege of calling *four* other countries home over the last few years. These experiences have shaped my worldview and fueled my passion for connecting across cultures. Currently, I’m in the **United States**, diving into new challenges and embracing the diversity around me.
+Born and raised in **Egypt**, I’ve had the privilege of calling *3* other countries home over the last few years. These experiences have shaped my worldview and fueled my passion for connecting across cultures. Currently, I’m in the **United States**, diving into new challenges and embracing the diversity around me.
 
 ---
 
