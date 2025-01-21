@@ -16,4 +16,3 @@ I find the applications of ***Machine Learning and Deep Learning*** extremely in
 ---------
 
 ## Thank you for taking the time to read those scattered facts!
-
