@@ -6,6 +6,7 @@ Just call me Gouda. Too many Ahmeds in Minerva.
 
 Born under the **Egyptian sun** and traveled the world on the back of my beloved camel *(true story, look at the pic below)*.
 
+![photo_2024-03-11_04-54-09](https://github.com/user-attachments/assets/3bea5237-8701-467b-b937-873a18eea24c)
 
 ## 🎮 What I Waste My Time On
 
