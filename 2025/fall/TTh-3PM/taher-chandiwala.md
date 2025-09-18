@@ -1,0 +1,20 @@
+# 👋 Hello, I’m Taher!
+
+**Name:** Taher  
+**Age:** 22 
+**From:** 🇮🇳 India  
+**Currently in:** Buenos Aires, Argentina 🇦🇷
+
+---
+
+## About Me
+
+- 🥊 *Boxer in Process*
+- 🥾 Loves to hike
+- 🌎 World traveler
+
+> “Adventure is out there—make every round count!”
+
+---
+
+***Let’s see where the journey takes me next!***
