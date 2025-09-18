@@ -1,7 +1,7 @@
 # 👋 Hello, I’m Taher!
 
 **Name:** Taher  
-**Age:** 27  
+**Age:** 22 
 **From:** 🇮🇳 India  
 **Currently in:** Buenos Aires, Argentina 🇦🇷
 
