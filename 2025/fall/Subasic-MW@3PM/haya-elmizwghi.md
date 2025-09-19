@@ -1,0 +1,1 @@
+Hi there! My name is Haya A. Elmizwghi, but you can call me Hayooota :) I come from Libya but have a penchant for travelling, hence why Im here. Im a CS+AH student and I pride myself on living in the intersection of creativity and technology. When Im not writing or coding, you can find me swimming laps in the nearest body of water, or sewing a dress that Ill never actually wear.
