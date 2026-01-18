@@ -1,0 +1,1 @@
+Hi. This is **Amal Kashif Sabeeh** and I'm taking **Prof. Subasic's MW 2:00PM BA Time Session**. I'm just doing the PCW and discovering Git.  I'm doing a double major in AI and Economics.
