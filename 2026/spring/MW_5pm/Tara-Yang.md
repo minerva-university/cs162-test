@@ -36,3 +36,4 @@ I’m interested in creating projects related to:
 
 In other words:
 software that feels more like a **mirror** than a **dashboard**.
+
