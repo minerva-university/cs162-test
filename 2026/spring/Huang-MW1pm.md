@@ -1,1 +1,4 @@
-**Echo **_is a girl _who works on cs162
+# me: Echo
+
+I'm working on CS 162, a student from **Minerva University**. 
+I'm also working on *complex system*! 
