@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Kanban Board.Galiya</title>
+
+        <style>
+            body {
+                font-family: 'Times New Roman', Times, serif, sans-serif;
+                margin: 0;
+                padding: 0;
+                background-color: #a80c5f;
+            }
+
+            header {
+                background-color: #333;
+                color: #fff;
+                padding: 10px 0;
+                text-align: center;
+            }
+
+            .kanban-board {
+                display: flex;
+                justify-content: space-around;
+                padding: 20px;
+            }
+
+            .kanban-column {
+                background-color: #e2e4e6;
+                border-radius: 5px;
+                width: 30%;
+                padding: 10px;
+            }
+
+            .kanban-column h2 {
+                text-align: center;
+            }
+
+            .kanban-card {
+                background-color: #fff;
+                border-radius: 3px;
+                box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+                margin: 10px 0;
+                padding: 10px;
+            }
+        </style>
+</html>
+<body>
+  <form action="https://httpbin.org/post"  method="post" class="kanban-form">
+  <h3>Add a new task</h3>
+  <label for="task-name">Task Name:</label><br>
+  <textarea id="task-name" name="task-name" rows="3" cols="30"
+            placeholder="Describe the task:"></textarea><br><br>
+
+  <label for="task-status">Column:</label><br>
+
+  <select id="task-status" name="task-status">
+    <option value="backlog">Backlog</option>
+    <option value="to-do">To Do</option>
+    <option value="in-progress">In Progress</option>
+    <option value="review">Review</option>
+    <option value="done">Done</option>
+  </select><br><br>
+
+  <button type="submit">Add Task</button>
+
+</form>
+<header>
+  <h1>Kanban Board</h1>
+  <p>Logout</p>
+</header>
+
+<div class="kanban-board">
+
+  <div class="kanban-column">
+    <h2>Backlog</h2>
+    <div class="kanban-card">Task 1</div>
+    <div class="kanban-card">Task 2</div>
+  </div>
+
+  <div class="kanban-column">
+    <h2>To Do</h2>
+    <div class="kanban-card">Task 3</div>
+  </div>
+
+  <div class="kanban-column">
+    <h2>In Progress</h2>
+    <div class="kanban-card">Task 4</div>
+  </div>
+
+  <div class="kanban-column">
+    <h2>Review</h2>
+    <div class="kanban-card">Task 5</div>
+  </div>
+
+  <div class="kanban-column">
+    <h2>Done</h2>
+    <div class="kanban-card">Task 6</div>
+  </div>
+
+</div>
+
+<footer>
+  <p>CS162 Kanban Board PCW</p>
+</footer>
+
+</body>
+
+</html>
+        
