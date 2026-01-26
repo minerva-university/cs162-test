@@ -47,6 +47,25 @@
         </style>
 </html>
 <body>
+  <form action="https://httpbin.org/post"  method="post" class="kanban-form">
+  <h3>Add a new task</h3>
+  <label for="task-name">Task Name:</label><br>
+  <textarea id="task-name" name="task-name" rows="3" cols="30"
+            placeholder="Describe the task:"></textarea><br><br>
+
+  <label for="task-status">Column:</label><br>
+
+  <select id="task-status" name="task-status">
+    <option value="backlog">Backlog</option>
+    <option value="to-do">To Do</option>
+    <option value="in-progress">In Progress</option>
+    <option value="review">Review</option>
+    <option value="done">Done</option>
+  </select><br><br>
+
+  <button type="submit">Add Task</button>
+
+</form>
 <header>
   <h1>Kanban Board</h1>
   <p>Logout</p>
