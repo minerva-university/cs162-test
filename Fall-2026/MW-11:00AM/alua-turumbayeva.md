@@ -1,4 +1,4 @@
-# # Hi, this is my whimsical biography.
+# ## Hi, this is my whimsical biography.
 
 ## I am Alua, a student at Minerva University.
 
