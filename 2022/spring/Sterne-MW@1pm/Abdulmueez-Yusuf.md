@@ -1,1 +1,0 @@
-<h6>Hello<h6>, my name is Yusuf Abdulmueez. I am a CS student at Minerva Univeristy. I love playing table tennis and trying new food from around the world. <p>Recently, I tried **Bibimbap** at a Korean Restaurant in Berlin. I enjoyed the contrast in textures from the *crunchy* vegatables to the soft *mushy* rice.<p>
