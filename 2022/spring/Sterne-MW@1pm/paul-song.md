@@ -1,1 +1,0 @@
-### Paul Song's IntroMakeup Work time.Paul like's **ferrets** and would like one as a pet someday.  I love my naps (yes, 4 hours count as naps).	def pauls_next_action():		if tired: 			sleep		else: 			sleep
