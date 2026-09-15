@@ -1,1 +1,0 @@
-Coby was just a simple country boy till he moved to the [steepest city](https://en.wikipedia.org/wiki/San_Francisco), learned how to make **iOS Apps**, and *tasted the rainbow*. Now he's flying around the globe trying to [code cool stuff](https://remote.com/coby) when he can.
