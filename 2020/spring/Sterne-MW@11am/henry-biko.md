@@ -1,1 +1,0 @@
-I am **Henry Biko** from Nairobi Kenya. I do school at Minerva and speak three languages
